@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gnt-downloader.pages.dev/sitemap.xml
